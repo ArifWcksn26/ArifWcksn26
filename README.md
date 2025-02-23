@@ -10,4 +10,6 @@ Saat ini, saya suka mengikuti pembelajaran di Dicoding dan sedang mengembangkan 
 - **Pengembangan Web**: Mempelajari HTML, CSS, dan JavaScript untuk membangun website interaktif.
 - **Data Science**: Mempelajari pengolahan data dan analisis menggunakan Python.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/arifwcksn26/)ku ya.
+Selain itu, saya juga aktif dalam berbagai proyek kolaboratif, di mana saya belajar bekerja dalam tim dan menerapkan keterampilan yang telah saya pelajari. Saya percaya bahwa pengalaman praktis sangat penting untuk pengembangan diri.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/arifwcksn26)ku ya.
