@@ -19,7 +19,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](http
   <a href="https://github.com/arifwcksn26">
     <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=0&color=38C2FF&center=false&multiline=true&repeat=true&width=435&lines=GitHub+Status+%3A)" alt="GitHub Status">
   </a>
-  <img src="YOUR_SECOND_ANIMATION_URL" alt="Second Animation" height="60">
 </div>
 <br>
 
