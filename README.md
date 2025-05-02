@@ -14,7 +14,8 @@ Selain itu, saya juga aktif dalam berbagai proyek kolaboratif, di mana saya bela
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/arifwcksn26)ku ya.
 
-![GitHub Status](https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=10000000&color=38C2FF&center=true&multiline=true&repeat=false&width=435&lines=GitHub+Status+%3A)
+![Statistics](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Statistics.gif)
+![GitHub Status](https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=1000&color=38C2FF&center=true&multiline=true&repeat=false&width=435&lines=GitHub+Status+%3A)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifwcksn26&show_icons=true&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwcksn26&layout=compact&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=arifwcksn26&theme=dark)](https://github.com/arifwcksn26/github-profile-trophy)
