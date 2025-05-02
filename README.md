@@ -13,3 +13,7 @@ Saat ini, saya suka mengikuti pembelajaran di Dicoding dan sedang mengembangkan 
 Selain itu, saya juga aktif dalam berbagai proyek kolaboratif, di mana saya belajar bekerja dalam tim dan menerapkan keterampilan yang telah saya pelajari. Saya percaya bahwa pengalaman praktis sangat penting untuk pengembangan diri.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/arifwcksn26)ku ya.
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifwcksn26&show_icons=true&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwcksn26&layout=compact&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=arifwcksn26&theme=dark)](https://github.com/arifwcksn26/github-profile-trophy)
