@@ -8,9 +8,10 @@
   </a>
 </p>
 
-<h4 align="center">
+<h3 align="center">
   A passionate aspiring Full Stack Developer, currently diving into Information Technology (IT).
-</h4>
+</h3>
+<br>
 
 <p align="center">
   Saat ini aktif belajar di <a href="https://www.dicoding.com/" target="_blank">Dicoding Indonesia</a>.
