@@ -11,16 +11,15 @@
 </p>
 
 <p align="center">
-  🌱 Saat ini aktif belajar di <a href="https://www.dicoding.com/" target="_blank">Dicoding Indonesia</a>.
+  Saat ini aktif belajar di <a href="https://www.dicoding.com/" target="_blank">Dicoding Indonesia</a>.
 </p>
 
 <p align="center">
-  Tertarik dengan <b>Data Science</b> dan <b>Web Development</b>.
-  Fokus pada Python, Pandas, NumPy, scikit-learn, HTML, CSS, dan JavaScript.
+  Tertarik dengan <b>Data Science</b> (Python, Pandas, NumPy, scikit-learn) dan <b>Web Development</b> (HTML, CSS, JavaScript).
 </p>
 
 <p align="center">
-  💬 Siap berkolaborasi dan menjawab pertanyaan seputar teknologi!
+  💬 Jangan ragu untuk bertanya tentang teknologi atau kolaborasi!
 </p>
 
 <hr>
@@ -39,17 +38,17 @@
 
 <hr>
 
-### 📚 Kelas Dicoding
+### 📚 Kelas Dicoding yang Diikuti
 
-<p align="center">
-  <code>Belajar Dasar Pemrograman</code> | <code>Pengembangan Web</code> | <code>Data Science</code>
-</p>
+* Belajar Dasar Pemrograman
+* Pengembangan Web
+* Data Science
 
 <hr>
 
-### 🔗 Terhubung
+### 🔗 Terhubung dengan Saya
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/arifwcksn26" target="_blank">
     <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -60,8 +59,6 @@
 
 <hr>
 
-<p align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifwcksn26&show_icons=true&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwcksn26&layout=compact&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
-  [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=arifwcksn26&theme=dark)](https://github.com/arifwcksn26/github-profile-trophy)
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifwcksn26&show_icons=true&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwcksn26&layout=compact&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=arifwcksn26&theme=dark)](https://github.com/arifwcksn26/github-profile-trophy)
