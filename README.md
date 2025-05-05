@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  A passionate aspiring Full Stack Developer, currently diving into Information Technology (IT).
+</p>
+
+<p align="center">
   Saat ini aktif belajar di <a href="https://www.dicoding.com/" target="_blank">Dicoding Indonesia</a>.
 </p>
 
