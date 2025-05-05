@@ -1,21 +1,25 @@
-# Halo semua! 👋
-
 <p align="center">
   <a href="https://github.com/arifwcksn26">
-    <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=0&color=38C2FF&center=false&multiline=true&repeat=true&width=435&lines=I'm+Arif+Wicaksono!+%F0%9F%91%8B)" alt="I'm Arif Wicaksono!">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=40&pause=50&color=2E9AFE&center=true&vCenter=true&width=490&lines=Halo+semua!+%F0%9F%91%8B)" alt="Halo semua!">
   </a>
 </p>
 
 <p align="center">
-  Seorang mahasiswa semester 8 di Universitas Pamulang (Unpam), antusias dalam mempelajari <b>Data Science</b> dan <b>Web Development</b>.
+  <a href="https://github.com/arifwcksn26">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=75&color=00CED1&center=true&vCenter=true&width=490&lines=I'm+Arif+Wicaksono!;Mahasiswa+Semester+8+Unpam;Calon+Data+Scientist+%26+Web+Developer" alt="I'm Arif Wicaksono!">
+  </a>
 </p>
 
 <p align="center">
-  🌱 Saat ini aktif belajar di <a href="https://www.dicoding.com/" target="_blank">Dicoding Indonesia</a>.
+  Saat ini aktif belajar di <a href="https://www.dicoding.com/" target="_blank">Dicoding Indonesia</a>.
 </p>
 
 <p align="center">
-  💬 Tanya saya tentang <b>Data Science</b>, <b>Web Development</b>, atau topik menarik lainnya!
+  Tertarik dengan <b>Data Science</b> (Python, Pandas, NumPy, scikit-learn) dan <b>Web Development</b> (HTML, CSS, JavaScript).
+</p>
+
+<p align="center">
+  💬 Jangan ragu untuk bertanya tentang teknologi atau kolaborasi!
 </p>
 
 <hr>
@@ -48,16 +52,12 @@
   <a href="https://www.linkedin.com/in/arifwcksn26" target="_blank">
     <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/arifwcksn26" target="_blank">
+    <img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <hr>
-
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <a href="https://github.com/arifwcksn26">
-    <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=0&color=38C2FF&center=false&multiline=true&repeat=true&width=435&lines=GitHub+Status+%3A)" alt="GitHub Status">
-  </a>
-</div>
-<br>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifwcksn26&show_icons=true&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwcksn26&layout=compact&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
