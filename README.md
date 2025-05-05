@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/arifwcksn26">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=40&pause=50&color=2E9AFE&center=true&vCenter=true&width=490&lines=Halo+semua!+%F0%9F%91%8B)" alt="Halo semua!">
+  <a # Halo semua! 👋
   </a>
 </p>
 
