@@ -1,19 +1,56 @@
 # Halo semua! 👋
 
-Perkenalkan nama saya **Arif Wicaksono**.
+<p align="center">
+  <a href="https://github.com/arifwcksn26">
+    <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=0&color=38C2FF&center=false&multiline=true&repeat=true&width=435&lines=I'm+Arif+Wicaksono!+%F0%9F%91%8B)" alt="I'm Arif Wicaksono!">
+  </a>
+</p>
 
-Saya seorang **mahasiswa semester 8** di Universitas Pamulang (Unpam).
+<p align="center">
+  Seorang mahasiswa semester 8 di Universitas Pamulang (Unpam), antusias dalam mempelajari <b>Data Science</b> dan <b>Web Development</b>.
+</p>
 
-Saat ini, saya suka mengikuti pembelajaran di Dicoding dan sedang mengembangkan keterampilan di bidang **data science** serta **web development**. Di Dicoding, saya telah mengikuti beberapa kelas, seperti:
+<p align="center">
+  🌱 Saat ini aktif belajar di <a href="https://www.dicoding.com/" target="_blank">Dicoding Indonesia</a>.
+</p>
 
-- **Belajar Dasar Pemrograman**: Memahami konsep dasar pemrograman dan algoritma.
-- **Pengembangan Web**: Mempelajari HTML, CSS, dan JavaScript untuk membangun website interaktif.
-- **Data Science**: Mempelajari pengolahan data dan analisis menggunakan Python.
+<p align="center">
+  💬 Tanya saya tentang <b>Data Science</b>, <b>Web Development</b>, atau topik menarik lainnya!
+</p>
 
-Selain itu, saya juga aktif dalam berbagai proyek kolaboratif, di mana saya belajar bekerja dalam tim dan menerapkan keterampilan yang telah saya pelajari. Saya percaya bahwa pengalaman praktis sangat penting untuk pengembangan diri.
+<hr>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/arifwcksn26)ku ya.
+### 🛠️ Teknologi Favorit
 
+<p align="center">
+  <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></code>
+  <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></code>
+  <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></code>
+  <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></code>
+  <code><img height="30" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></code>
+  <code><img height="30" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></code>
+</p>
+
+<hr>
+
+### 📚 Kelas Dicoding yang Diikuti
+
+* Belajar Dasar Pemrograman
+* Pengembangan Web
+* Data Science
+
+<hr>
+
+### 🔗 Terhubung dengan Saya
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arifwcksn26" target="_blank">
+    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<hr>
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <a href="https://github.com/arifwcksn26">
