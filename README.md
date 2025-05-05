@@ -1,6 +1,12 @@
 <p align="center">
   <a href="https://github.com/arifwcksn26">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=40&pause=50&color=2E9AFE&center=true&vCenter=true&width=490&lines=Halo+semua!+%F0%9F%91%8B+|+I'm+Arif+Wicaksono!" alt="Halo semua! | I'm Arif Wicaksono!">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=40&pause=50&color=2E9AFE&center=true&vCenter=true&width=490&lines=Halo+semua!+%F0%9F%91%8B)" alt="Halo semua!">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arifwcksn26">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=75&color=00CED1&center=true&vCenter=true&width=490&lines=I'm+Arif+Wicaksono!" alt="I'm Arif Wicaksono!">
   </a>
 </p>
 
