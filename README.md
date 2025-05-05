@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/arifwcksn26">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=70&color=00CED1&center=true&vCenter=true&width=540&lines=I'm+Arif+Wicaksono!;Mahasiswa+Semester+8+Unpam;Data+Scientist+%26+Web+Developer" alt="I'm Arif Wicaksono!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=75&color=00CED1&center=true&vCenter=true&width=490&lines=I'm+Arif+Wicaksono!;Mahasiswa+Semester+8+Unpam;Calon+Data+Scientist+%26+Web+Developer" alt="I'm Arif Wicaksono!">
   </a>
 </p>
 
@@ -58,6 +58,13 @@
 </p>
 
 <hr>
+
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <a href="https://github.com/arifwcksn26">
+    <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=0&color=38C2FF&center=false&multiline=true&repeat=true&width=435&lines=GitHub+Status+%3A)" alt="GitHub Status">
+  </a>
+</div>
+<br>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifwcksn26&show_icons=true&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwcksn26&layout=compact&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
