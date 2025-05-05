@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/arifwcksn26">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=80&color=00CED1&center=true&vCenter=true&width=510&lines=I'm+Arif+Wicaksono!;Mahasiswa+Semester+8+Unpam;Data+Scientist+%26+Web+Developer" alt="I'm Arif Wicaksono!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=80&color=00CED1&center=true&vCenter=true&width=530&lines=I'm+Arif+Wicaksono!;Mahasiswa+Semester+8+Unpam;Data+Scientist+%26+Web+Developer" alt="I'm Arif Wicaksono!">
   </a>
 </p>
 
