@@ -1,4 +1,6 @@
-# Halo semua! 👋
+<p align="center">
+  Halo semua! 👋
+</p>
 
 <p align="center">
   <a href="https://github.com/arifwcksn26">
