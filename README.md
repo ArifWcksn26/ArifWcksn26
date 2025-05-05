@@ -1,7 +1,4 @@
-<p align="center">
-  <a # Halo semua! 👋
-  </a>
-</p>
+# Halo semua! 👋
 
 <p align="center">
   <a href="https://github.com/arifwcksn26">
