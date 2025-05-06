@@ -12,9 +12,6 @@
   A passionate aspiring Full Stack Developer, currently diving into Information Technology (IT).
 </h3>
 <br>
-<p align="center">
-  Saat ini aktif belajar di <a href="https://www.dicoding.com/" target="_blank">Dicoding Indonesia</a>.
-</p>
 
 <p align="center">
   Tertarik dengan <b>Data Science</b> (Python, Pandas, NumPy, scikit-learn) dan <b>Web Development</b> (HTML, CSS, JavaScript).
@@ -43,14 +40,6 @@
   <code><img height="30" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></code>
   <code><img height="30" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></code>
 </p>
-
-<hr>
-
-### 📚 Kelas Dicoding yang Diikuti
-
-* Belajar Dasar Pemrograman
-* Pengembangan Web
-* Data Science
 
 <hr>
 
