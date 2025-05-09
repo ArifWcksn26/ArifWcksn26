@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
- A passionate aspiring **Web Developer**, currently diving into Information Technology (IT).
+ A passionate aspiring <b>Web Development</b>, currently diving into Information Technology (IT).
 </h3>
 <br>
 
