@@ -47,9 +47,6 @@
   <a href="https://www.linkedin.com/in/arifwcksn26" target="_blank">
     <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/arifwcksn26" target="_blank">
-    <img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <hr>
@@ -61,6 +58,4 @@
 </div>
 <br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifwcksn26&show_icons=true&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifwcksn26&layout=compact&theme=dark)](https://github.com/arifwcksn26/github-readme-stats)
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=arifwcksn26&theme=dark)](https://github.com/arifwcksn26/github-profile-trophy)
