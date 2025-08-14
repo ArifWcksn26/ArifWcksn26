@@ -17,8 +17,6 @@
   Tertarik dengan <b>Data Science</b> (Python, Pandas, NumPy, scikit-learn) dan <b>Web Development</b> (HTML, CSS, JavaScript).
 </p>
 
-<p align="center">
-  💬 Jangan ragu untuk bertanya tentang teknologi atau kolaborasi!
 </p>
 
 ### 🛠️ Teknologi Favorit
