@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-  A passionate aspiring <strong>Web Developer</strong>, currently diving into Information Technology (IT).
+  A passionate aspiring <strong>Web Developer</strong>, building clean, practical apps with Next.js, Laravel & Python for data work. Currently diving into Information Technology (IT).
 </h3>
 <br>
 
@@ -19,9 +19,15 @@
 
 </p>
 
-### 🛠️ Teknologi Favorit
+### 🛠️ Tech Stack
 
 <p align="center">
+  <code><img height="30" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></code>
+  <code><img height="30" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></code>
+  <code><img height="30" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></code>
+
   <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></code>
   <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></code>
   <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></code>
@@ -32,19 +38,20 @@
   <code><img height="30" src="https://img.shields.io/badge/Filament-FF7E5B?style=for-the-badge&logoColor=white" alt="Filament"></code>
   <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></code>
   <code><img height="30" src="https://img.shields.io/badge/CodeIgniter-F95B00?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"></code>
+
   <code><img height="30" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></code>
   <code><img height="30" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></code>
   <code><img height="30" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></code>
 </p>
 
+
 <hr>
 
-### 🔗 Terhubung dengan Saya
-
+## 🔗 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/arifwcksn26" target="_blank">
-    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://github.com/arifwcksn26" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arifwcksn26" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:arifwicaksono947@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <hr>
