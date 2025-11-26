@@ -9,15 +9,14 @@
 </p>
 
 <h3 align="center">
-  A passionate aspiring <strong>Web Developer</strong>, building clean, practical apps with Next.js, Laravel & Python for data work. Currently diving into Information Technology (IT).
+  A passionate aspiring <strong>Web Developer</strong> who loves building clean and practical applications using Next.js, Laravel, and Python. Currently exploring deeper into the world of Information Technology and modern development workflows.
 </h3>
 <br>
 
 <p align="center">
-  Tertarik dengan <b>Data Science</b> (Python, Pandas, NumPy, scikit-learn) dan <b>Web Development</b> (HTML, CSS, JavaScript).
+  Tertarik dengan <b>Data Science</b> (Python, Pandas, NumPy, scikit-learn) serta <b>Web Development</b> (HTML, CSS, JavaScript, Tailwind, React, Next.js).
 </p>
 
-</p>
 
 ### 🛠️ Tech Stack
 
@@ -27,7 +26,6 @@
   <code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></code>
   <code><img height="30" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></code>
   <code><img height="30" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></code>
-
   <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></code>
   <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></code>
   <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></code>
@@ -38,7 +36,6 @@
   <code><img height="30" src="https://img.shields.io/badge/Filament-FF7E5B?style=for-the-badge&logoColor=white" alt="Filament"></code>
   <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></code>
   <code><img height="30" src="https://img.shields.io/badge/CodeIgniter-F95B00?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"></code>
-
   <code><img height="30" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></code>
   <code><img height="30" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></code>
   <code><img height="30" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></code>
