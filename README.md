@@ -9,12 +9,13 @@
 </p>
 
 <h3 align="center">
-  A passionate aspiring <strong>Web Developer</strong> who loves building clean and practical applications using Next.js, Laravel, and Python. Currently exploring deeper into the world of Information Technology and modern development workflows.
+  A passionate aspiring <strong>Full-Stack Web Developer</strong> who loves building clean, scalable, and practical applications using <strong>React, Next.js, Laravel, and Flask</strong>.  
+  Currently exploring deeper into <strong>Data Science, Backend Engineering, and modern development workflows</strong>.
 </h3>
 <br>
 
 <p align="center">
-  Tertarik dengan <b>Data Science</b> (Python, Pandas, NumPy, scikit-learn) serta <b>Web Development</b> (HTML, CSS, JavaScript, Tailwind, React, Next.js).
+  Interested in <b>Data Science</b> (Python, Pandas, NumPy, scikit-learn) and <b>Full-Stack Web Development</b> (React, Next.js, Flask, Laravel, Tailwind CSS).
 </p>
 
 
@@ -23,6 +24,8 @@
 <p align="center">
   <code><img height="30" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></code>
   <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></code>
+  <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></code>
   <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></code>
   <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></code>
   <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></code>
