@@ -54,16 +54,3 @@
 
 <hr>
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <a href="https://github.com/arifwcksn26">
-    <img src="https://readme-typing-svg.demolab.com?font=Tilt+Prism&size=30&pause=0&color=38C2FF&center=false&multiline=true&repeat=true&width=435&lines=GitHub+Status+%3A)" alt="GitHub Status">
-  </a>
-</div>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifwcksn26&show_icons=true&theme=tokyonight&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwcksn26&layout=compact&theme=tokyonight&hide_border=true" height="150">
-</p>
-
-
