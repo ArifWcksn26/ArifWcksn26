@@ -1,9 +1,3 @@
-# Arif Wicaksono
-
-<p align="center">
-  <img src="path/to/your/simple-text-animation.gif" alt="Animated Text: Web Developer | Fresh Graduate" width="400">
-</p>
-
 ### About Me
 
 A passionate individual who recently graduated with a degree in Information Systems. I have a fundamental understanding of both front-end and back-end development principles. Currently focusing on expanding my skills in:
