@@ -13,6 +13,6 @@ A passionate individual who recently graduated with a degree in Information Syst
 I am open to opportunities to learn and grow in a professional setting. Let's connect and discuss potential collaborations or just chat about technology.
 
 *   LinkedIn: [linkedin.com/in/arifwcksn26](https://linkedin.com/in/arifwcksn26)
-*   Email: [arifwcksn26@gmail.com](mailto:arifwcksn26@gmail.com)
+*   Email: [arifwcksn26@gmail.com](mailto:arifwicaksono947@gmail.com)
 
 ---
